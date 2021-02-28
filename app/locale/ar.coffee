@@ -5,7 +5,7 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
     meta_keywords: "كودكومبات, بايثون, جافا سكريبت, العاب برمجة"
     meta_description: "تعلم البرمجة عن طريق الالعاب. تعلم بايثون, جافا سكريبت و HTML وتعلم بناء العابك ومواقعك الخاصة"
 #    meta_og_url: "https://codecombat.com"
-#    become_investor: "to become an investor in CodeCombat"
+#    become_investor: "لتكون مستثمر في كودكومبات"
 #    built_for_teachers_title: "A Coding Game Built with Teachers in Mind"
 #    built_for_teachers_blurb: "Teaching kids to code can often feel overwhelming. CodeCombat helps all educators teach students how to code in either JavaScript or Python, two of the most popular programming languages. With a comprehensive curriculum that includes six computer science units and reinforces learning through project-based game development and web development units, kids will progress on a journey from basic syntax to recursion!"
 #    built_for_teachers_subtitle1: "Computer Science"
@@ -3134,7 +3134,7 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
 #    title: "CodeCombat works best on Chrome!"
 #    pitch_body: "For the best CodeCombat experience we recommend using the latest version of Chrome. Download the latest version of chrome by clicking the button below!"
 #    download: "Download Chrome"
-#    ignore: "Ignore"
+#    ignore: "تجاهل"
 
 #  admin:
 #    license_type_full: "Full Courses"
@@ -3153,4 +3153,4 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
 #    seasonal_play_cta: "Play Blazing Battle Multiplayer Arena"
 #    unlocked_seasonal_arena: "You've unlocked our multiplayer esports arena!"
 #    summary: "The CodeCombat AI League is uniquely both a competitive AI battle simulator and game engine for learning real Python and JavaScript code."
-#    join_now: "Join Now"
+#    join_now: "انضم الآن"
